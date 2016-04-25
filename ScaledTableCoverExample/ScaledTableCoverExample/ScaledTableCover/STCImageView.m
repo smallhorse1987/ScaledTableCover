@@ -81,8 +81,6 @@
 
 - (void)setupFrameTop:(CGFloat)top
 {
-    NSLog(@"offset %lf", top);
-    
     CGRect frame = self.frame;
     
     frame.origin.y = top;

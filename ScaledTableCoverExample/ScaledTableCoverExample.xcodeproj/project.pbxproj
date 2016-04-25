@@ -15,6 +15,7 @@
 		810088F91CCE32D300FE6A9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 810088F71CCE32D300FE6A9F /* LaunchScreen.storyboard */; };
 		810089041CCE336500FE6A9F /* cover01.png in Resources */ = {isa = PBXBuildFile; fileRef = 810089011CCE336500FE6A9F /* cover01.png */; };
 		8100890A1CCE339C00FE6A9F /* STCImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 810089091CCE339C00FE6A9F /* STCImageView.m */; };
+		8100890C1CCE3D2B00FE6A9F /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8100890B1CCE3D2B00FE6A9F /* demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		810089011CCE336500FE6A9F /* cover01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover01.png; sourceTree = "<group>"; };
 		810089081CCE339C00FE6A9F /* STCImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STCImageView.h; sourceTree = "<group>"; };
 		810089091CCE339C00FE6A9F /* STCImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STCImageView.m; sourceTree = "<group>"; };
+		8100890B1CCE3D2B00FE6A9F /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		810088E81CCE32D300FE6A9F /* ScaledTableCoverExample */ = {
 			isa = PBXGroup;
 			children = (
+				8100890B1CCE3D2B00FE6A9F /* demo.gif */,
 				810089071CCE339C00FE6A9F /* ScaledTableCover */,
 				810089001CCE336500FE6A9F /* images */,
 				810088EC1CCE32D300FE6A9F /* AppDelegate.h */,
@@ -162,6 +165,7 @@
 			files = (
 				810088F91CCE32D300FE6A9F /* LaunchScreen.storyboard in Resources */,
 				810088F61CCE32D300FE6A9F /* Assets.xcassets in Resources */,
+				8100890C1CCE3D2B00FE6A9F /* demo.gif in Resources */,
 				810089041CCE336500FE6A9F /* cover01.png in Resources */,
 				810088F41CCE32D300FE6A9F /* Main.storyboard in Resources */,
 			);
